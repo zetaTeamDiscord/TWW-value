@@ -1,0 +1,722 @@
+{
+  "Skinwalker Bone": {
+    "value": "7.5K",
+    "demand": "Low",
+    "stability": "Very Good",
+    "overpay": "Low",
+    "image": "https://media.discordapp.net/attachments/1352921204612141067/1485371328654741554/latest.png?ex=69daabd9&is=69d95a59&hm=bfc41636148e909a383a5e8d76bd0cead39eca640e71fbc92ae26006683c8bd9&=&format=webp&quality=lossless",
+    "notes": ""
+  },
+  "Martini Henry": {
+    "value": "20k",
+    "demand": "High",
+    "stability": "Very Good",
+    "overpay": "Very Low",
+    "image": "https://media.discordapp.net/attachments/1352921204612141067/1485342403094380634/latest.png?ex=69db39a9&is=69d9e829&hm=4270697425b41f28f44473deca5b9983fcb86a81de36c7187afa9e9dc2f0b9fa&=&format=webp&quality=lossless",
+    "notes": ""
+  },
+  "Scorched Pelt": {
+    "value": "10k",
+    "demand": "Very low",
+    "stability": "Very Good",
+    "overpay": "High",
+    "image": "https://media.discordapp.net/attachments/1352921204612141067/1485368807219527791/latest.png?ex=69db5240&is=69da00c0&hm=de6f16426fc8809d2512f442a5bbf727374a8571d839b9c6d3c2880ea10640e8&=&format=webp&quality=lossless",
+    "notes": ""
+  },
+  "Thunderstruck Log": {
+    "value": "4K",
+    "demand": "N/A",
+    "stability": "N/A",
+    "overpay": "N/A",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/f/f1/Thunderstruck_Log_Icon_4.0.png/revision/latest?cb=20250512074011",
+    "notes": ""
+  },
+  "Thunderstruck Cactus Juice": {
+    "value": "6K",
+    "demand": "N/A",
+    "stability": "N/A",
+    "overpay": "N/A",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/d/d5/Thunderstruck_Cactus_Juice_Icon_4.0.png/revision/latest?cb=20250512073750",
+    "notes": ""
+  },
+  "Hardwood Log": {
+    "value": "0",
+    "demand": "Very Low",
+    "stability": "N/A",
+    "overpay": "N/A",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/d/df/Hardwood_Log_Icon.png/revision/latest?cb=20250512073824",
+    "notes": ""
+  },
+  "Model 3 Lightning": {
+    "value": "30k",
+    "demand": "N/A",
+    "stability": "N/A",
+    "overpay": "Low",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/9/9d/Model_3_Lightning_Icon_4.0.png/revision/latest?cb=20250512094627",
+    "notes": ""
+  },
+  "Membership Token": {
+    "value": "25k",
+    "demand": "High",
+    "stability": "Good",
+    "overpay": "Low",
+    "image": "https://media.discordapp.net/attachments/1492483401574383696/1492912324439314493/image.png?ex=69dd0e73&is=69dbbcf3&hm=eba36d2347913af0e3b0378cfc99f1a5eb689cf209642adf5eedf7e54569135d&=&format=webp&quality=lossless",
+    "notes": "+20 Bank slots - +50% xp (30day)"
+  },
+  "Lightning Recurve Bow": {
+    "value": "40K",
+    "demand": "N/A",
+    "stability": "N/A",
+    "overpay": "N/A",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/d/da/Lightning_Recurve_Bow_Icon_4.0.png/revision/latest?cb=20250512094642",
+    "notes": ""
+  },
+  "Animal Bone x50": {
+    "value": "62.5K",
+    "demand": "N/A",
+    "stability": "N/A",
+    "overpay": "N/A",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/a/a5/Animal_Bone_Icon_4.0.png/revision/latest?cb=20251023113855",
+    "notes": ""
+  },
+  "Pile of bones x1-30": {
+    "value": "1K",
+    "demand": "Very Low",
+    "stability": "Very Good",
+    "overpay": "Medium",
+    "image": "https://media.discordapp.net/attachments/1352921204612141067/1485972637929701508/latest.png?ex=69dae19c&is=69d9901c&hm=45b4a5e4ddc1a00cdc304315cb712a21891d4f419f0c660d21c0c54ea1744828&=&format=webp&quality=lossless",
+    "notes": ""
+  },
+  "Albino Gator Skin": {
+    "value": "2k",
+    "demand": "Very Low",
+    "stability": "Very Good",
+    "overpay": "Low",
+    "image": "https://media.discordapp.net/attachments/1352921204612141067/1485370068144619652/latest.png?ex=69db536d&is=69da01ed&hm=a727a9c5fe2ece1d4de7de50bcc9322b78dc36d5ed2af4b4eac65ed5ce106c3d&=&format=webp&quality=lossless",
+    "notes": ""
+  },
+  "Legendary Bison Pelt": {
+    "value": "1K",
+    "demand": "N/A",
+    "stability": "N/A",
+    "overpay": "N/A",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/3/3e/Legendary_Bison_Pelt_Icon_4.0.png/revision/latest?cb=20250512073610",
+    "notes": ""
+  },
+  "Legendary Gator Skin": {
+    "value": "1K",
+    "demand": "N/A",
+    "stability": "N/A",
+    "overpay": "N/A",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/f/f2/Legendary_Gator_Skin_Icon_4.0.png/revision/latest?cb=20250512073626",
+    "notes": ""
+  },
+  "Legendary Gator Tooth": {
+    "value": "1K",
+    "demand": "N/A",
+    "stability": "N/A",
+    "overpay": "N/A",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/2/24/Legendary_Gator_Tooth_Icon_4.0.png/revision/latest?cb=20250512073644",
+    "notes": ""
+  },
+  "Legendary Grizzly Pelt": {
+    "value": "1K",
+    "demand": "Very Low",
+    "stability": "N/A",
+    "overpay": "N/A",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/c/c4/Legendary_Grizzly_Pelt_Icon_4.0.png/revision/latest?cb=20250512073659",
+    "notes": ""
+  },
+  "Legendary Bear Claw": {
+    "value": "1K",
+    "demand": "N/A",
+    "stability": "N/A",
+    "overpay": "N/A",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/3/3a/Legendary_Bear_Claw_Icon_4.0.png/revision/latest?cb=20250512073721",
+    "notes": ""
+  },
+  "Santa's Lantern": {
+    "value": "25k",
+    "demand": "Medium",
+    "stability": "Good",
+    "overpay": "Medium",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/1/16/Santa%27s_Lantern_Icon_4.0.png/revision/latest?cb=20250512100941",
+    "notes": ""
+  },
+  "Occult Sawed-Off": {
+    "value": "20k",
+    "demand": "Low",
+    "stability": "Good",
+    "overpay": "Medium",
+    "image": "https://media.discordapp.net/attachments/1352921204612141067/1485310874867466271/latest.png?ex=69db1c4c&is=69d9cacc&hm=3663d533e56ac276735b9ce07f2e6026a78a792108daa1636f40fbde2a10fb5b&=&format=webp&quality=lossless",
+    "notes": ""
+  },
+  "Special Gift": {
+    "value": "20k",
+    "demand": "Very Low",
+    "stability": "Very Good",
+    "overpay": "Medium",
+    "image": "https://media.discordapp.net/attachments/1352921204612141067/1485541954212331520/latest.png?ex=69db4ac1&is=69d9f941&hm=f02003ae18c6d70d34c1db3936d3fc9ea7f35d73e08cea89fb186ba6922df4c9&=&format=webp&quality=lossless",
+    "notes": ""
+  },
+  "Old Boot": {
+    "value": "1k",
+    "demand": "Very Low",
+    "stability": "Very Good",
+    "overpay": "Very Low",
+    "image": "https://media.discordapp.net/attachments/1352921204612141067/1486030636191055892/latest.png?ex=69db17a0&is=69d9c620&hm=e9ec4f627d4ba1cac2d45d3cc6432e5830f3a9bba5269280a6310ca9c979eedb&=&format=webp&quality=lossless",
+    "notes": ""
+  },
+  "Kukri Machete Rosewood": {
+    "value": "110K",
+    "demand": "High",
+    "stability": "Very Good",
+    "overpay": "Low",
+    "image": "https://media.discordapp.net/attachments/1352921204612141067/1485976621361008740/latest.png?ex=69dae552&is=69d993d2&hm=7fe44ca7200f3743533713096ea037d38cde52402eed776b712062a5c654070d&=&format=webp&quality=lossless",
+    "notes": ""
+  },
+  "Trumpet": {
+    "value": "6.5K",
+    "demand": "Very Low",
+    "stability": "Very Good",
+    "overpay": "Very Low",
+    "image": "https://media.discordapp.net/attachments/1352921204612141067/1485976373893009509/latest.png?ex=69dae517&is=69d99397&hm=4e142ebd46d74649f0f145bdeb4d39eaa02cb5b9253b40af3b363f4661e54f37&=&format=webp&quality=lossless",
+    "notes": ""
+  },
+  "Snake Venom": {
+    "value": "500k",
+    "demand": "Very Low",
+    "stability": "Very Good",
+    "overpay": "High",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/4/44/Snake_Venom_Icon_3.4.png/revision/latest?cb=20210525024900",
+    "notes": ""
+  },
+  "SwampViper Venom": {
+    "value": "?",
+    "demand": "High",
+    "stability": "Very Good",
+    "overpay": "High",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/f/fe/SwampViper_Venom.png/revision/latest?cb=20210213221644",
+    "notes": ""
+  },
+  "RattleSnake Venom": {
+    "value": "?",
+    "demand": "High",
+    "stability": "Very Good",
+    "overpay": "High",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/4/42/RattleSnakeVenom.png/revision/latest?cb=20231015035830",
+    "notes": ""
+  },
+  "Damaged Gun Body Blunderbuss": {
+    "value": "25k",
+    "demand": "Low",
+    "stability": "Very Good",
+    "overpay": "Very Low",
+    "image": "https://media.discordapp.net/attachments/1352921204612141067/1485343756235440158/latest.png?ex=69db3aeb&is=69d9e96b&hm=03b5f9fb83a27ddfa0f92c9ce97ad04f3b2083742e0cb0dfcdc7e9624375d861&=&format=webp&quality=lossless",
+    "notes": ""
+  },
+  "Harmonica": {
+    "value": "6K",
+    "demand": "Very Low",
+    "stability": "Bad",
+    "overpay": "Low",
+    "image": "https://media.discordapp.net/attachments/1352921204612141067/1485976354133639260/latest.png?ex=69dae512&is=69d99392&hm=a88be3823574a23df8815c3848885de8d3f9a94e8a89d71ca9d39dd4fb56330c&=&format=webp&quality=lossless",
+    "notes": ""
+  },
+  "Blunderbuss Ivory": {
+    "value": "75k",
+    "demand": "High",
+    "stability": "Very Good",
+    "overpay": "High",
+    "image": "https://media.discordapp.net/attachments/1352921204612141067/1485339468935336008/latest.png?ex=69db36ed&is=69d9e56d&hm=d95295a429c1a0c47121f9e1ee8378b67800ee2a44e0203546d88a513e92ccc3&=&format=webp&quality=lossless",
+    "notes": ""
+  },
+  "Damaged Gun Barrel Martini Henry": {
+    "value": "2.5K",
+    "demand": "N/A",
+    "stability": "N/A",
+    "overpay": "N/A",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/6/69/Gun_Barrel_Icon_4.0.png/revision/latest?cb=20250512082736",
+    "notes": ""
+  },
+  "Damaged Gun Mechanism Martini Henry": {
+    "value": "5K",
+    "demand": "N/A",
+    "stability": "N/A",
+    "overpay": "N/A",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/6/6e/Gun_Parts_Icon_4.0.png/revision/latest?cb=20250512082753",
+    "notes": ""
+  },
+  "Damaged Gun Mechanism Blunderbuss": {
+    "value": "10K",
+    "demand": "N/A",
+    "stability": "N/A",
+    "overpay": "N/A",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/1/1b/BlunderbussParts.png/revision/latest?cb=20251019011019",
+    "notes": ""
+  },
+  "Damaged Gun Body Martini Henry": {
+    "value": "5K",
+    "demand": "N/A",
+    "stability": "N/A",
+    "overpay": "N/A",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/6/6e/Gun_Parts_Icon_4.0.png/revision/latest?cb=20250512082753",
+    "notes": ""
+  },
+  "Damaged Gun Barrel Blunderbuss": {
+    "value": "10k",
+    "demand": "Low",
+    "stability": "Very Good",
+    "overpay": "Very Low",
+    "image": "https://media.discordapp.net/attachments/1352921204612141067/1485343741635203153/latest.png?ex=69db3ae8&is=69d9e968&hm=d4c3b71d96e97d43f84e5130f3585bd585802b95c89f7bb8774da745dacc761a&=&format=webp&quality=lossless",
+    "notes": ""
+  },
+  "Candy Cane": {
+    "value": "5K",
+    "demand": "Very Low",
+    "stability": "Very Good",
+    "overpay": "Medium",
+    "image": "https://media.discordapp.net/attachments/1352921204612141067/1485360371354308770/latest.png?ex=69db4a65&is=69d9f8e5&hm=1d733b0346550ca622aefd69fa407f53b91907c7cecf1660e1637aa103a07e32&=&format=webp&quality=lossless",
+    "notes": ""
+  },
+  "Extractor": {
+    "value": "15K",
+    "demand": "N/A",
+    "stability": "N/A",
+    "overpay": "N/A",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/c/c1/Extractor_Icon_4.0.png/revision/latest?cb=20250512094735",
+    "notes": ""
+  },
+  "Zombie Bear Pelt": {
+    "value": "3K",
+    "demand": "N/A",
+    "stability": "N/A",
+    "overpay": "N/A",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/8/85/ZombieBearPeltIcon4.2.4.PNG/revision/latest?cb=20260209132015",
+    "notes": ""
+  },
+  "A Pile Of Bones x30": {
+    "value": "6.5K",
+    "demand": "N/A",
+    "stability": "N/A",
+    "overpay": "N/A",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/a/ac/Pile_of_Bones_Icon_4.0.png/revision/latest?cb=20250512094356",
+    "notes": ""
+  },
+  "Vial x10": {
+    "value": "10K",
+    "demand": "N/A",
+    "stability": "N/A",
+    "overpay": "N/A",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/7/7b/Empty_Vial_Icon_4.0.png/revision/latest?cb=20250512094801",
+    "notes": ""
+  },
+  "Ceremonial Dagger": {
+    "value": "25K",
+    "demand": "N/A",
+    "stability": "N/A",
+    "overpay": "N/A",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/2/28/Ceremonial_Dagger_Icon_4.0.png/revision/latest?cb=20250512094408",
+    "notes": ""
+  },
+  "Cursed Lantern": {
+    "value": "25K",
+    "demand": "N/A",
+    "stability": "N/A",
+    "overpay": "N/A",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/0/00/Cursed_Lantern_Icon_4.0.png/revision/latest?cb=20250512094421",
+    "notes": ""
+  },
+  "Vial of Lightning Essence": {
+    "value": "500",
+    "demand": "N/A",
+    "stability": "N/A",
+    "overpay": "N/A",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/c/c4/Vial_of_Lightning_Essence_Icon_4.0.png/revision/latest?cb=20250512094814",
+    "notes": ""
+  },
+  "Bear Blood Vial": {
+    "value": "2K",
+    "demand": "N/A",
+    "stability": "N/A",
+    "overpay": "N/A",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/e/ef/Animal_Blood_Vial_Icon_4.0.png/revision/latest?cb=20250512094828",
+    "notes": ""
+  },
+  "Bison Blood Vial": {
+    "value": "2K",
+    "demand": "N/A",
+    "stability": "N/A",
+    "overpay": "N/A",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/e/ef/Animal_Blood_Vial_Icon_4.0.png/revision/latest?cb=20250512094828",
+    "notes": ""
+  },
+  "Deer Blood Vial": {
+    "value": "2K",
+    "demand": "N/A",
+    "stability": "N/A",
+    "overpay": "N/A",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/e/ef/Animal_Blood_Vial_Icon_4.0.png/revision/latest?cb=20250512094828",
+    "notes": ""
+  },
+  "Cursed Volcanic Pistol": {
+    "value": "300k",
+    "demand": "Very High",
+    "stability": "N/A",
+    "overpay": "N/A",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/b/bf/Cursed_Volcanic_Icon_4.0.png/revision/latest?cb=20251101084723",
+    "notes": ""
+  },
+  "Occult Lantern": {
+    "value": "250K",
+    "demand": "N/A",
+    "stability": "N/A",
+    "overpay": "N/A",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/2/2b/Occult_Lantern_Icon_4.0.png/revision/latest?cb=20250512094556",
+    "notes": ""
+  },
+  "Golden Ticket x5": {
+    "value": "41K",
+    "demand": "N/A",
+    "stability": "N/A",
+    "overpay": "N/A",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/5/54/Golden_Ticket_Icon_4.0.png/revision/latest?cb=20250512100535",
+    "notes": ""
+  },
+  "Frozen Axe": {
+    "value": "15K",
+    "demand": "N/A",
+    "stability": "N/A",
+    "overpay": "N/A",
+    "image": "https://media.discordapp.net/attachments/1352921204612141067/1485309563178586215/70.png?ex=69dd1553&is=69dbc3d3&hm=34434b01a7d1c41d53074356fb7f4badcfc1ad8b573ddfaca8f7207f9849e511&=&format=webp&quality=lossless",
+    "notes": ""
+  },
+  "Frozen Horn Bow": {
+    "value": "240K",
+    "demand": "Very High",
+    "stability": "Very Low",
+    "overpay": "Very High",
+    "image": "https://media.discordapp.net/attachments/1352921204612141067/1485561965287047280/latest.png?ex=69dcaee4&is=69db5d64&hm=3c0b01f2bb031303a1bf4eeb8a1bb7e7ea3230546d5bc085bc260ab19d74278a&=&format=webp&quality=lossless",
+    "notes": ""
+  },
+  "Frozen Volcanic Rifle": {
+    "value": "110K",
+    "demand": "High",
+    "stability": "High",
+    "overpay": "Low",
+    "image": "https://media.discordapp.net/attachments/1352921204612141067/1485305954294829208/latest.png?ex=69dd11f7&is=69dbc077&hm=6b4494fec964ae9cbafc18298e15d7e97888816d1eed125cf8b9e78ea9538e5e&=&format=webp&quality=lossless",
+    "notes": ""
+  },
+  "Polar Bear Pelt": {
+    "value": "3K",
+    "demand": "Very Low",
+    "stability": "High",
+    "overpay": "N/A",
+    "image": "https://media.discordapp.net/attachments/1352921204612141067/1485367432842448977/latest.png?ex=69dca278&is=69db50f8&hm=05260f8ef5132fcb5d97fd7b1e0edb64362f40eabc9da06543caa24b85c83352&=&format=webp&quality=lossless",
+    "notes": ""
+  },
+  "Ancient Relic": {
+    "value": "180K",
+    "demand": "Low",
+    "stability": "High",
+    "overpay": "Very High",
+    "image": "https://media.discordapp.net/attachments/1352921204612141067/1485542432425771078/latest.png?ex=69dd4573&is=69dbf3f3&hm=cb8c4229205af90133f9c1501aeef9e6e83fe36c006e7b430ad2717305021c7d&=&format=webp&quality=lossless",
+    "notes": ""
+  },
+  "Frosty Gun Barrel": {
+    "value": "5K",
+    "demand": "Very Low",
+    "stability": "Very High",
+    "overpay": "Low",
+    "image": "https://media.discordapp.net/attachments/1352921204612141067/1486030050389393409/latest.png?ex=69dd1155&is=69dbbfd5&hm=624bbe22ff3b6f1745980bfdb8d810ea45ad31e11ca02e1e204784b879ab15ad&=&format=webp&quality=lossless",
+    "notes": ""
+  },
+  "Frosty Gun Mechanism": {
+    "value": "5K",
+    "demand": "Very Low",
+    "stability": "Very High",
+    "overpay": "Low",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/2/25/Frosty_Gun_Parts_Icon_4.0.png/revision/latest?cb=20250512100852",
+    "notes": ""
+  },
+  "Frosty Gun Body": {
+    "value": "5K",
+    "demand": "Very Low",
+    "stability": "Very High",
+    "overpay": "Low",
+    "image": "https://media.discordapp.net/attachments/1352921204612141067/1485542432425771078/latest.png?ex=69dd4573&is=69dbf3f3&hm=cb8c4229205af90133f9c1501aeef9e6e83fe36c006e7b430ad2717305021c7d&=&format=webp&quality=lossless",
+    "notes": ""
+  },
+  "Rednose Rifle": {
+    "value": "20K",
+    "demand": "Very Low",
+    "stability": "Very High",
+    "overpay": "Very Low",
+    "image": "https://media.discordapp.net/attachments/1352921204612141067/1485541074025054272/latest.png?ex=69dd4430&is=69dbf2b0&hm=64ac164a188b30e2d3f70b476adb91dcc498b4dc5940fe0034f27ecc2756fa96&=&format=webp&quality=lossless",
+    "notes": ""
+  },
+  "Festive Sharps": {
+    "value": "5K",
+    "demand": "Very Low",
+    "stability": "Very High",
+    "overpay": "Very Low",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/d/df/FestiveSharpsIcon.png/revision/latest?cb=20251226105826",
+    "notes": ""
+  },
+  "Trade Ticket": {
+    "value": "10K",
+    "demand": "Very Low",
+    "stability": "Very High",
+    "overpay": "N/A",
+    "image": "https://media.discordapp.net/attachments/1352921204612141067/1485987034219941979/image-26.png?ex=69dce945&is=69db97c5&hm=d82c42d43ea39d35c6aadbcfc32acfae4041a1c6a976aed78eec6cca1a1b959b&=&format=webp&quality=lossless",
+    "notes": ""
+  },
+  "Stolen Present": {
+    "value": "?",
+    "demand": "N/A",
+    "stability": "N/A",
+    "overpay": "N/A",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/2/27/Stolen_Present_Icon_4.0.png/revision/latest?cb=20250512100716",
+    "notes": ""
+  },
+  "Flood Lantern": {
+    "value": "35K",
+    "demand": "High",
+    "stability": "Very Good",
+    "overpay": "Very High",
+    "image": "https://media.discordapp.net/attachments/1352921204612141067/1485366291350032445/latest.png?ex=69db4fe8&is=69d9fe68&hm=439dafc4a98e739aceda0803fa9090b8de8303b2ee6ac1d0123de91fb5153703&=&format=webp&quality=lossless",
+    "notes": ""
+  },
+  "Cursed Souls x99": {
+    "value": "30K",
+    "demand": "Very Low",
+    "stability": "Very Good",
+    "overpay": "Medium",
+    "image": "https://media.discordapp.net/attachments/1352921204612141067/1486003000039444511/image-1.jpg?ex=69dafde3&is=69d9ac63&hm=a4c3f128caa863f35344184fb7c66348962f7cc740bf14bbc0595c26618938d0&=&format=webp",
+    "notes": ""
+  },
+  "Blunderbuss Cedar": {
+    "value": "55K",
+    "demand": "Low",
+    "stability": "Very Good",
+    "overpay": "Very Low",
+    "image": "https://media.discordapp.net/attachments/1352921204612141067/1485338626312114267/latest.png?ex=69db3624&is=69d9e4a4&hm=66a2e01562958b69a77509fc62e18e20ed89f67ef7b07c83afcc701ef5e9fee7&=&format=webp&quality=lossless",
+    "notes": ""
+  },
+  "Christmas Cookie x10": {
+    "value": "5K",
+    "demand": "Very Low",
+    "stability": "Very Good",
+    "overpay": "Medium",
+    "image": "https://media.discordapp.net/attachments/1352921204612141067/1485360638736859167/latest.png?ex=69db4aa4&is=69d9f924&hm=1fce50e67312f200a7b62fc6a4ededf0d141b23becaab6b219341fd58a2a39fb&=&format=webp&quality=lossless",
+    "notes": ""
+  },
+  "Doubloons x1": {
+    "value": "50",
+    "demand": "Very Low",
+    "stability": "Very Good",
+    "overpay": "Medium",
+    "image": "https://media.discordapp.net/attachments/1352921204612141067/1485986898026696876/image_2025-04-05_160714614-Picsart-CropImage.png?ex=69daeee4&is=69d99d64&hm=39fcb96aeb6e5c4c2772d9f48ac7ba056a6ed4c732fd3e8e179bb3c46a08e07b&=&format=webp&quality=lossless",
+    "notes": ""
+  },
+  "Spitfire Revolving Sniper": {
+    "value": "7.5m",
+    "demand": "Very High",
+    "stability": "Very Good",
+    "overpay": "High",
+    "image": "https://media.discordapp.net/attachments/1352921204612141067/1485306593510686841/latest.png?ex=69db184f&is=69d9c6cf&hm=4eba31df83b1ed3b5e535e574d821fd4cbe3422fb617acfc2fc11d18855181d3&=&format=webp&quality=lossless",
+    "notes": ""
+  },
+  "Kukri Machete Brass": {
+    "value": "100K",
+    "demand": "High",
+    "stability": "Very Good",
+    "overpay": "Medium",
+    "image": "https://media.discordapp.net/attachments/1352921204612141067/1485976606198468731/latest.png?ex=69dae54f&is=69d993cf&hm=035952254ed121d5013b23257227eba05cc6fd6c93a1a828d7cfca6d8c39cf14&=&format=webp&quality=lossless",
+    "notes": ""
+  },
+  "Guitar": {
+    "value": "11K",
+    "demand": "Very Low",
+    "stability": "Very Good",
+    "overpay": "Medium",
+    "image": "https://media.discordapp.net/attachments/1352921204612141067/1485976394784833596/latest.png?ex=69dae51c&is=69d9939c&hm=8e0450954c5c23a5373d3f77c668c0fea3297f55a4bd2dff68b8af386126f752&=&format=webp&quality=lossless",
+    "notes": ""
+  },
+  "Drum": {
+    "value": "2k",
+    "demand": "N/A",
+    "stability": "N/A",
+    "overpay": "N/A",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/c/c1/Drum_Icon_4.0.png/revision/latest?cb=20250512003228",
+    "notes": ""
+  },
+  "Accordion": {
+    "value": "10k",
+    "demand": "N/A",
+    "stability": "N/A",
+    "overpay": "N/A",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/a/a6/Accordian_Icon_4.0.png/revision/latest?cb=20250512003349",
+    "notes": ""
+  },
+  "Flute": {
+    "value": "4K",
+    "demand": "N/A",
+    "stability": "N/A",
+    "overpay": "N/A",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/a/a3/Flute_Icon.png/revision/latest?cb=20250518141430",
+    "notes": ""
+  },
+  "Kukri Machete Walnut": {
+    "value": "100K",
+    "demand": "Low",
+    "stability": "Very Good",
+    "overpay": "Medium",
+    "image": "https://media.discordapp.net/attachments/1352921204612141067/1485976599709880330/latest.png?ex=69dae54d&is=69d993cd&hm=cadde0b2d975c47c65f72e9d4f2b5220671e3d14f8f83dfa5f6a0cf9cd6db4c2&=&format=webp&quality=lossless",
+    "notes": ""
+  },
+  "Paterson Navy": {
+    "value": "1.6M",
+    "demand": "High",
+    "stability": "Very Good",
+    "overpay": "High",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/1/13/Paterson_Navy_4.0.png/revision/latest?cb=20250510083016",
+    "notes": ""
+  },
+  "Occult Blade": {
+    "value": "45k",
+    "demand": "Low",
+    "stability": "Medium",
+    "overpay": "Very Low",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/8/8b/Occult_Blade_Icon_4.0.png/revision/latest?cb=20250512094721",
+    "notes": ""
+  },
+  "Admiral's Axegonne": {
+    "value": "?",
+    "demand": "N/A",
+    "stability": "N/A",
+    "overpay": "N/A",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/a/ad/Admiral%27s_Axegonne_Icon.png/revision/latest?cb=20251022032023",
+    "notes": ""
+  },
+  "skelly leg": {
+    "value": "4.2m",
+    "demand": "Low",
+    "stability": "Very Bad",
+    "overpay": "Medium",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/1/19/Skeleton_Horse_Leg_Icon_4.0.png/revision/latest?cb=20251023114116",
+    "notes": ""
+  },
+  "Skelly Thigh": {
+    "value": "2m",
+    "demand": "Medium",
+    "stability": "Very Good",
+    "overpay": "High",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/4/44/Skeleton_Horse_Thigh_Icon_4.0.png/revision/latest?cb=20251023114105",
+    "notes": ""
+  },
+  "Skelly Body": {
+    "value": "800k",
+    "demand": "Low",
+    "stability": "Bad",
+    "overpay": "Medium",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/5/5d/Skeleton_Horse_Body_Icon_4.0.png/revision/latest?cb=20251023114048",
+    "notes": ""
+  },
+  "Wendigo Ribs": {
+    "value": "6K",
+    "demand": "Low",
+    "stability": "Very Good",
+    "overpay": "Low",
+    "image": "https://media.discordapp.net/attachments/1352921204612141067/1485562965255262268/latest.png?ex=69dc0713&is=69dab593&hm=5f441bfb22d055f1286587a54fee48bb2e0f8e577c68d9a088a652a58d52af97&=&format=webp&quality=lossless&width=143&height=143",
+    "notes": ""
+  },
+  "Skelly Skull": {
+    "value": "1.3m",
+    "demand": "High",
+    "stability": "Medium",
+    "overpay": "High",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/4/46/Skeleton_Horse_Skull_Icon_4.0.png/revision/latest?cb=20251023113936",
+    "notes": ""
+  },
+  "SkinWalker Jaw": {
+    "value": "7.5K",
+    "demand": "Low",
+    "stability": "Very Good",
+    "overpay": "Low",
+    "image": "https://media.discordapp.net/attachments/1352921204612141067/1485371123217465354/latest.png?ex=69dbfd28&is=69daaba8&hm=8fa374f6e0e33e95ab4cf648e8af3fc8ad5f7cd0b4903fb5d5bf91b12e5b25a0&=&format=webp&quality=lossless&width=90&height=90",
+    "notes": ""
+  },
+  "Skinwalker Skull": {
+    "value": "7.5K",
+    "demand": "Low",
+    "stability": "Very Good",
+    "overpay": "Low",
+    "image": "https://media.discordapp.net/attachments/1352921204612141067/1485370751291752559/latest.png?ex=69dbfccf&is=69daab4f&hm=b76b82b84e2639fdd82546c5e60bab8f503c070b6057344a305fd041daf309c0&=&format=webp&quality=lossless&width=90&height=90",
+    "notes": ""
+  },
+  "Guycot Chain Carbine": {
+    "value": "35k",
+    "demand": "Low",
+    "stability": "Very Good",
+    "overpay": "Very Low",
+    "image": "https://media.discordapp.net/attachments/1352921204612141067/1485976779364499547/latest.png?ex=69db8e38&is=69da3cb8&hm=e2db045d7afeecbaf05528cda95eb601efb49c98ceade6d25d50775a48779a72&=&format=webp&quality=lossless&width=90&height=90",
+    "notes": ""
+  },
+  "Rednose Rifle's": {
+    "value": "17K",
+    "demand": "Low",
+    "stability": "Bad",
+    "overpay": "Very Low",
+    "image": "https://thewild-west.fandom.com/wiki/File:Rednose_Rifle_Icon_4.0.png",
+    "notes": ""
+  },
+  "Axegonne": {
+    "value": "140k",
+    "demand": "Medium",
+    "stability": "Good",
+    "overpay": "Low",
+    "image": "https://thewild-west.fandom.com/wiki/File:Admiral%27s_Axegonne_Icon.png",
+    "notes": ""
+  },
+  "Schwarzlose Prototype Pistol": {
+    "value": "105k",
+    "demand": "Very Hgh",
+    "stability": "Good",
+    "overpay": "Medium",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/9/96/Prototype_Pistol_Icon.png/revision/latest?cb=20251030124433",
+    "notes": "Pros : Above average capacity Fast fire rate Automatic Extremely low recoil.Magazine-fed, faster empty reloads. Strong Bullet netration for a pistol ood Damage drop-off cons : low damage Fast reloads, partial ones are punishing. Auction Item (Expensive)"
+  },
+  "Lancaster Pistol": {
+    "value": "115k",
+    "demand": "Hight",
+    "stability": "Good",
+    "overpay": "Mid",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/2/20/Lancaster_Icon_4.0.png/revision/latest?cb=20250510082951",
+    "notes": "Pros: High damage Mid bullet penetration Fast fire rate Decent horseback accuracy Cons: Low accuracy Steep damage drop-off Low headshot multiplier Low ammo capacity Slow reload per bullet Auction item (expensive)"
+  },
+  "Jezail Musket": {
+    "value": "130k",
+    "demand": "Low",
+    "stability": "Bad",
+    "overpay": "Low",
+    "image": "https://thewild-west.fandom.com/wiki/File:Jezail_Icon.png",
+    "notes": ""
+  },
+  "Sleep Darts": {
+    "value": "?",
+    "demand": "Medium",
+    "stability": "Medium",
+    "overpay": "Medium",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/a/ae/Blowdart_stack.png/revision/latest?cb=20230501104442",
+    "notes": ""
+  },
+  "Fiddle": {
+    "value": "?",
+    "demand": "N/A",
+    "stability": "N/A",
+    "overpay": "N/A",
+    "image": "https://static.wikia.nocookie.net/thewild-west/images/5/58/Fiddle_Icon_4.0.png/revision/latest?cb=20250512003318",
+    "notes": ""
+  }
+}
