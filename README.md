@@ -63,6 +63,8 @@ un système de trading et bien plus encore.
 - Python 3.10 ou supérieur
 - Un bot Discord avec les intents activés
 
+### Image files
+- https://drive.google.com/drive/folders/1f5CyQVduLyDfCXYJK9sZDJV_hS-cZd5i?usp=sharing
 ### Étapes
 
 **1. Cloner le repository**
