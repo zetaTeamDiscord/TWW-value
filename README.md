@@ -67,5 +67,5 @@ un système de trading et bien plus encore.
 
 **1. Cloner le repository**
 ```bash
-git clone https://github.com/ton-user/ton-repo.git
+git clone https://github.com/zetaTeamDiscord/TWW-value.git
 cd ton-repo
