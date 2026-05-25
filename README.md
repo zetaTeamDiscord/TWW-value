@@ -1,73 +1,72 @@
 # 🎮 Discord Value List Bot
 
-Un bot Discord complet pour gérer une liste de valeurs d'items, des sondages de prix,
-un système de trading et bien plus encore.
+A full-featured Discord bot for managing an item value list, price polls, a trading system, and much more.
 
 ---
 
-## ✨ Fonctionnalités
+## ✨ Features
 
-### 🔍 Consultation
-- Afficher la valeur d'un item avec `/value`
-- Lister tous les items triés par valeur avec `/list`
-- Rechercher des items par filtres avec `/search`
-- Comparer deux items côte à côte avec `/compare`
-- Calculer la valeur d'un échange avec `/calculator`
-- Consulter l'historique de modifications avec `/history`
+### 🔍 Lookup
+- Display an item's value with `/value`
+- List all items sorted by value with `/list`
+- Search items using filters with `/search`
+- Compare two items side by side with `/compare`
+- Calculate the value of a trade with `/calculator`
+- View modification history with `/history`
 
-### 📊 Sondages
-- Créer un sondage de valeur avec `/createpoll`
-- Les membres peuvent proposer une valeur via un bouton
-- La moyenne est calculée en temps réel
-- Fermeture du sondage et mise à jour automatique avec `/closepoll`
+### 📊 Polls
+- Create a value poll with `/createpoll`
+- Members can propose a value via a button
+- Average is calculated in real-time
+- Close the poll and auto-update the value with `/closepoll`
 
 ### 💰 Trading
-- Enregistrer un échange avec `/logtrade`
-- Consulter son historique d'échanges avec `/tradehistory`
-- Analyser le marché avec `/market`
+- Log a trade with `/logtrade`
+- View your trade history with `/tradehistory`
+- Analyze the market with `/market`
 
-### 🔔 Surveillance & Alertes
-- Suivre un item avec `/watch` (notification DM à chaque modification)
-- Définir une alerte de prix avec `/setalert`
-- Gérer ses favoris avec `/addfavorite`, `/viewfavorites`, `/removefavorite`
+### 🔔 Watches & Alerts
+- Watch an item with `/watch` — get a DM whenever it gets updated
+- Set a price alert with `/setalert`
+- Manage your favorites with `/addfavorite`, `/viewfavorites`, `/removefavorite`
 
-### 👤 Profils & Classements
-- Profil utilisateur avec niveau, badges et statistiques via `/profile`
-- Classements des meilleurs contributeurs, traders, votants via `/leaderboard`
-- Heatmap de distribution des items via `/heatmap`
+### 👤 Profiles & Leaderboards
+- User profile with level, badges and stats via `/profile`
+- Leaderboards for top contributors, traders and voters via `/leaderboard`
+- Item distribution heatmap via `/heatmap`
 
-### 🗺️ Localisation de Coffres
-- Trouver un coffre par son nom avec `/locatechest`
-- Lister tous les coffres disponibles avec `/locatechestlist`
+### 🗺️ Chest Locations
+- Find a chest by name with `/locatechest`
+- List all available chests with `/locatechestlist`
 
 ### ✏️ Contributions
-- Proposer l'ajout d'un item avec `/additem`
-- Suggérer une modification avec `/suggestmodify`
-- Validation par réaction ✅ / ❌ (owner ou rôle autorisé)
+- Propose adding an item with `/additem`
+- Suggest a modification with `/suggestmodify`
+- Requests are validated by the owner or an authorized role via ✅ / ❌ reactions
 
 ### 👑 Administration
-- Ajout direct d'items avec `/adminadd`
-- Modification et suppression avec `/edititem`, `/deleteitem`
-- Sauvegarde et restauration avec `/backup`, `/loadbackup`
-- Import/export JSON avec `/importjson`, `/exportjson`
-- Annonces globales avec `/announce`
-- Gestion des utilisateurs avec `/banuser`, `/resetprofile`
-- Tableau de bord complet avec `/dashboard`, `/globalstats`
-- Et bien plus...
+- Add items directly with `/adminadd`
+- Edit and delete items with `/edititem`, `/deleteitem`
+- Backup and restore data with `/backup`, `/loadbackup`
+- Import and export JSON with `/importjson`, `/exportjson`
+- Send global announcements with `/announce`
+- Manage users with `/banuser`, `/resetprofile`
+- Full dashboard with `/dashboard`, `/globalstats`
 
 ---
 
 ## 📦 Installation
 
-### Prérequis
-- Python 3.10 ou supérieur
-- Un bot Discord avec les intents activés
+### Requirements
+- Python 3.10 or higher
+- A Discord bot with the required intents enabled
 
-### Image files
+### Image Files
 - https://drive.google.com/drive/folders/1f5CyQVduLyDfCXYJK9sZDJV_hS-cZd5i?usp=sharing
-### Étapes
 
-**1. Cloner le repository**
+### Steps
+
+**1. Clone the repository**
 ```bash
-git clone https://github.com/zetaTeamDiscord/TWW-value.git
-cd TWW-value
+git clone https://github.com/your-user/your-repo.git
+cd your-repo
